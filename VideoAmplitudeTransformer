@@ -1,0 +1,50 @@
+Paste the code below into a Max patcher. This patch allows you to zoom, stretch, 
+and transform a live video feed (in this case your webcam) based upon the inpute 
+amplitude being received by a microphone. Sensitivity can be adjusted as can the
+bounding modes and intensity of transformation.
+
+
+<pre><code>
+----------begin_max5_patcher----------
+1782.3oc2a00aaaCE84jeEDB6gNfzTQQJK4gggUzGFFv.1.FvdXef.ZIZa1I
+QZPR6lzh1e6ieH4XmXKKmYSYTfD6XJZxKO5bu2CuT4SWeUzDw8TUD36.+E3p
+q9z0WckqIaCW074qhpI2WTQTttEUHpqobczM9qoo2qcs+SRxDEfwWrTClJE0
+fBxB8RIETRWwJns8epfqUrORseGXxswsMKmMw1T75V3KqY7Jp1MqvlFWPzEy
+Y7Y2IoEZuUiGa+NlwB5dabt8sDSaf+o4KwJcFnXx6eMJcS6fSpc1QzakLRUz
+iSrXotclisM94qu19xM+Ogn2yz2JEZhAkzT4BoYJ.eTXfpRhowyFBkll3vj7
+LOzD2EBkLdHQneufTQARBSQU.R8hJldYIErhTszzfV.VHEqXlVpEVlkjTSzr
+BGH1NVULNsPrj6FPz4BSSbPJFicjNzX2mx1CjNZHgze1w0DUDsAAEqnRPZsB
+LUHApZgPOmSMCvYClfNjIM1y.gi5j5EOj3z6LyoTTo.SnyIqDLoCilxpLDpY
+.UgjR4fIFhUoAF4d+Vio.dUsnzfrvWi+1vRAG44fPbp6sz3t3fv7gDa+SKXM
+kTnExyFUC44XXOGKC0ESCNnoA9E1JJPwlwebxN4nAL1kNLy+JtSv.MjfwuQj
+1X8tLfjIVGJF2zWmO2VPzVNUImMbK24Mgvwa3TgP6F4FzTk+5BJ+MuqRnn.i
+LKtxn2plJIlXSuQLc5MfID9LkWIVM0DYyb8kl9ZzfXxGXSkNyHXCnmS8X+qn
+lTCOX7h.0pcGHCe1Tvk4zrA2DxGsGxJdHg72tVPhVRJ9WKG0kFfwADdoKa.c
+5Ty5REXRKJ+1TiCNx9JDk1EmcTPDivoevLYOC.qDjxZidC.51CD4amKcuQoe
+XA0utihVuB2k1CurWTtSBRVZWw.Gcz7J3IjW8GV4sfe.5XS18P82beSeeaSl
+INrTp1ronLGmJA0ImBFBN0zJgYPNI7FyPQL.JHxFjrOjnFUEoct0oziNePx5
+I1rSFpIt7cTNYRE8D61o1ZCRGCxsqfMibfPJxq2bbmHBZHC1XbTLLeP5wrvQ
+6MTyMGHbSKt3cbR6T+YZxQyTNsAgc79SgmzAcfF0H9DtNsdGvBLDQgsIfHyn
+OCWH7h4B4cOX.g3iAaRdQYmx70qJwGRI2QWf46AWhu.vk6sL7yOtLBkzabAm
+Mj3hMlpgs7MvyOnzVAuFswi6DTRGbP49f.JMaanefRPz2sm.txiN8a7KCPZp
+DdNtsRP6OTKNID.xfHYqAFRfvCKYCCGZIa6yQpvty9fEYwSYPc5CgFOf9P1i
+NwVvhSBWxLX2USzR18GTUGFC23zk51mBkEBUcDsVtjc929Ldju7xoIaTVl8t
+zO5pJzZT1kiqutRqaqkdzK.TrziEefwKEenc5VHoJylsIZlfuwxxsL7U0Kwu
+jvatl5Iv0SZSyTryYZSzCc1E8u9nG+Q+YOBfCjmTyoPNty8MhFx8G4qVJ5zn
+08vYq7vhWnaZ2GdcP1djVLaVEM5nnALa0nN7h7wME2whLt63Em67thETd.R6
+Fm+3ccTVWocSx+pUoVSISvY8PoVB9Rs3ZtGYg3aAP2OGWksG8hXOs3l+oOXb
+Rm3VPD5WwVQucFgw+R6XthHWOYO+p8yEp8..27ur+tlgUwTcG3A5qFGzebvo
+M5a2imFLa2.RZGDoVu.EYEs7NqXF1jkZ5i+kpA0ZfMKvTsjJl11ba6aN7Few
+Y6G71pqp4Botm8sEYi2w0pM2OrW60YqOqfmbch69+ncdUFmos7oVEVsn6VcZ
+ooSJ8CdbC6util091IJBtRKVb9if2bPwiyZOXj8GAGlLjUjQoIR81RiOinh+
+wNviJ9J+tWTId.2NIor3KmjjcOKDUOPmlmXGTmalLODJfMAnzBdzosh+MOyW
+3GeXu1+pL6qDEL853AGbALKqmPkmDDxJ3uW3imw2K7AcgJva5GoRwWNsDqif
+g4QPTtWHS2AMN5MHh1.lbCn6TSexyCtyprsuM1oDKkEsqrlPVfGMqRpRy3tx
+urQerZr1nSyYkkT9lk7tjor2CK2+Mwiwbf8wbfAwbrOhIGDdrOBAABddxTsa
+6wt6A.NL1SRevGT3vGXerm3KK6AGN2qmrz2s8fRBm8zW5bXLmmbmXvgGb5El
+8fuvrm9D9ACCm8zK28zKL6AGL6A0mzWnvENDcg4uaOQtKJ6oO9WnvkdGAuv3
+O8JcZ3h+jjeYgOI8R9b33yI8gOmDt3gv9D+AFVyAd4XN84tUd3Lm3KKywLSI
+GvZxBp0bHlSZPslCFF7EZM9JtPVrXEUpZFRmgDUSduPt9.BipYb+GcUVJRRW
+wZ6elqEhrXNSSKr+C26p4y84iht1NOe95+C.eiq8T
+-----------end_max5_patcher-----------
+</code></pre>
