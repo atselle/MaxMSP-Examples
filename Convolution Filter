@@ -1,0 +1,18 @@
+Paste code into Max patcher. Creates convolution filtering of two input signals via FFT.
+
+<pre><code>
+----------begin_max5_patcher----------
+534.3ocwV1saaBCEG+Z3o.4K2xhv1Xft61ywzzjC3z5JhMBb5xVUyy97GPSy
+jBxzxL2fiO13y+yO7ImyywQfcxSrdPxWS9dRTzywQQVSFCQCyi.GnmpZn81s
+ADreI28HXiaIE6jxZd+dk7n5bBbbk8Rgpm+GlYUHZa5fYwwCbQCSYOLzfwVp
+p5At39e1wpTNw.uinemDLzNPxLOQoaSS9wv6vqs9UqkuT9VeJnGr9D7sNNsA
+bwsZ4M52TiwWhiMO17wh6VYiRVQ6N+dhamjT+tk4BZPO+dgQzu9qWC2aiHDw
+NjmNEhJlKhPKGh97hxloHBpvAAnc.i1RtMQxmKQfKGQ9TvHBDS7lHjUjH5LH
+kTmKsBoQ3TKafodjFkshoQqHhFXiWHBuhHRWDhKNmflCgfdSnYccxAorhoPE
+ZtnBu3nBtln5p6SSiJ3GAU1CDzvE+amNVMYreM+5kG6pFisAumbQV0rdM6nJ
+tT7l8fuZOOvqqY1kGIYMumtqgUe69OliZfdnF3Dp4.utUxEpAf.QklJC249m
+PcCECSt3kES8HOXYVvXIxCVlMOVhQ3KrDSR+OxRrGrjDLVl4oZfAQMXO9xlG
+T13iZBCaHd7kpHXrI2S0DF1T3gZJCFaJ73dS46jMtxhz11mXc8CGoUH5FHdT
+1YlluwNkKbSsM..5XOwG2eg0BsSWZWoqqeryUX9TYNH13mWh+K.nzTrk
+-----------end_max5_patcher-----------
+</code></pre>
